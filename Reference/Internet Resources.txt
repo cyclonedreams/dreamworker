@@ -1,0 +1,5 @@
+将数据集做成VOC2007格式用于Faster-RCNN训练
+https://blog.csdn.net/sinat_30071459/article/details/50723212
+
+第一步：制作数据库-https://blog.csdn.net/sinat_30071459/article/details/50723212 
+第二步：修改代码进行训练-https://blog.csdn.net/sinat_30071459/article/details/51332084 
